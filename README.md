@@ -3,7 +3,8 @@
 Documentation
 
 Please follow the directory structure as shown below
-'''
+
+```
   Software-Defined-Storage-Doc
     - Raw
       - Week1-Chameleon-Ceph-Deployment
@@ -28,5 +29,5 @@ Please follow the directory structure as shown below
       - Week3-<bla bla>  
         - Final.docx
         - Presentation-final
-'''
+```
 
