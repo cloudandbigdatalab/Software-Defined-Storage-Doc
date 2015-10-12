@@ -18,7 +18,6 @@ Please follow the directory structure as shown below
         - Version-1
         - Presentation-1
         - Figures
-    
     - Finished 
       - Week1-Chameleon-Ceph-Deployment
         - Final.docx
